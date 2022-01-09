@@ -1,0 +1,13 @@
+name = "SNDlibReader"
+uuid = "6bb8b653-9a1e-4263-9410-e0be1444a858"
+authors = ["fchrstou <filippos.christou@ikr.uni-stuttgart.de> and contributors"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.7"
+
+[targets]
+test = ["Test"]
