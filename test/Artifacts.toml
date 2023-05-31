@@ -1,0 +1,6 @@
+[sndlib-networks]
+git-tree-sha1 = "52f7eaebdc0da42dcaa1ab8333220dcaaa7f9b47"
+
+    [[sndlib-networks.download]]
+    sha256 = "6b78b5a8ab9cb35a0f30d5b95f2ddafb3b3d28091d919cd74330b230716d14f3"
+    url = "sndlib.zib.de/download/sndlib-networks-xml.tgz"
